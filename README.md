@@ -37,4 +37,4 @@ Projeto feito junto com a Digital Innovation One e Santander BootCamp | FullStac
 
 * O desenvolvimento desse projeto foi baseado pela tabela a seguir:
 
-  ![UML API REST](C:\Users\paulo\Downloads\UML API REST.png)
+  ![UML API REST](https://user-images.githubusercontent.com/62356712/128050156-c15a915f-3951-47cd-a7c9-6d2e9c5ab170.png)
